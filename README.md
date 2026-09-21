@@ -1,4 +1,4 @@
-# UPAR 2027 Challenge Development Data @ Real-World Surveillance Workshop 2027
+# UPAR 2027 Challenge Track 1 & 2 Development Data @ Real-World Surveillance Workshop 2027
 
 This repository prepares the public training and validation data for the two
 UPAR 2027 Challenge tracks:
@@ -10,9 +10,9 @@ Both tracks use the same ordered vocabulary of 40 binary attributes across
 Market1501, PA-100K, and PETA.
 
 ## Information
-Challenge Track 1: [Track 1]()
+Challenge Track 1: [Track 1](https://www.codabench.org/competitions/18180/)
 
-Challenge Track 1: [Track 2]()
+Challenge Track 2: [Track 2](https://www.codabench.org/competitions/18196/)
 
 Associated workshop: [Real-World Surveillance: Applications and Challenges Workshop](https://vap.aau.dk/rws)
 
@@ -20,9 +20,7 @@ Challenge results 2024: [UPAR@RWS2024](https://openaccess.thecvf.com/content/WAC
 
 Challenge results 2023: [UPAR@RWS2023](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Cormier_UPAR_Challenge_Pedestrian_Attribute_Recognition_and_Attribute-Based_Person_Retrieval_--_WACVW_2023_paper.pdf)
 
-Challenge dataset: [UPAR dataset](https://openaccess.thecvf.com/content/WACV2023/papers/Specker_UPAR_Unified_Pedestrian_Attribute_Recognition_and_Person_Retrieval_WACV_2023_paper.pdf)
-
-Original UPAR dataset: [Github](https://github.com/speckean/upar_dataset)
+UPAR Paper: [UPAR dataset](https://openaccess.thecvf.com/content/WACV2023/papers/Specker_UPAR_Unified_Pedestrian_Attribute_Recognition_and_Person_Retrieval_WACV_2023_paper.pdf)
 
 ## Setup
 

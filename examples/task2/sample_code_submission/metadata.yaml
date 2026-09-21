@@ -1,0 +1,5 @@
+# Code submissions are executed by the challenges ingestion program, which
+# imports run.py and calls rank_gallery(). Nothing in this
+# file is used for inference, it exists only so the platform never treats the
+# archive as a result submission. Leave it as-is.
+command: python3 -c "print('Submission package ready. The ingestion program imports run.py')"
